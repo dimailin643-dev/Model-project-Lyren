@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9u8APCsJKVQ=",
+  "success": true,
+  "projectFilePath": "F:\\Тимонина моделирование\\ТЗ\\Форма\\LurenStore_Premium_2026\\LurenStore\\LurenStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ULTRA PC\\.nuget\\packages\\sourcegear.sqlite3\\3.53.4\\sourcegear.sqlite3.3.53.4.nupkg.sha512",
+    "C:\\Users\\ULTRA PC\\.nuget\\packages\\system.data.sqlite\\2.0.4\\system.data.sqlite.2.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

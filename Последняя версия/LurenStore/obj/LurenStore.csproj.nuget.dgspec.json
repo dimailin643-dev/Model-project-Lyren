@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Тимонина моделирование\\ТЗ\\Форма\\LurenStore_Premium_2026\\LurenStore\\LurenStore.csproj": {}
+  },
+  "projects": {
+    "F:\\Тимонина моделирование\\ТЗ\\Форма\\LurenStore_Premium_2026\\LurenStore\\LurenStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Тимонина моделирование\\ТЗ\\Форма\\LurenStore_Premium_2026\\LurenStore\\LurenStore.csproj",
+        "projectName": "LurenStore",
+        "projectPath": "F:\\Тимонина моделирование\\ТЗ\\Форма\\LurenStore_Premium_2026\\LurenStore\\LurenStore.csproj",
+        "packagesPath": "C:\\Users\\ULTRA PC\\.nuget\\packages\\",
+        "outputPath": "F:\\Тимонина моделирование\\ТЗ\\Форма\\LurenStore_Premium_2026\\LurenStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ULTRA PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "framework": "net48",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "framework": "net48",
+          "dependencies": {
+            "SourceGear.sqlite3": {
+              "target": "Package",
+              "version": "[3.53.4, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
